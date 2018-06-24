@@ -1,0 +1,3 @@
+#index:
+#    path: /
+#    controller: Readflix\Landing\Application\Action\HomePageAction
